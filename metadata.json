@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Seru di Dunia Ekosistem",
+  "description": "Game edukatif interaktif IPAS Kelas 3 SD Fase B: Mengenal Komponen Biotik dan Abiotik di Hutan, Laut, Gurun, dan Sawah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
